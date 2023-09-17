@@ -8,5 +8,8 @@ namespace AppManagementSystem
 {
     class clsGlobal
     {
+        public string FirstName { get; set; }
+        public string SecondName { get; set; }
+        public string LastName { get; set; }
     }
 }
